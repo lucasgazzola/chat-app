@@ -2,6 +2,8 @@
 
 ### Hi, my name is Lucas Gazzola!
 
+Link to the deployed project: <a href='https://lucas-chatapp.netlify.app/'>lucas-chatapp.netlify.app</a>
+
 <p>I'm a <b>Junior Front-End Developer</b> and I'm from <b>Argentina!</b></p>
 
 ### This is a Chat App, a simple web where you can chat with all the users in the room.

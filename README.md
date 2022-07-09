@@ -8,7 +8,7 @@
 
 <p>This app was built with <b>no knowledge about Back-End Development</b>.
 
- In the <b>Front</b>, I've used <b>React 18</b> (vite) and in the <b>Back</b>, I've learned how to use <b>NodeJs</b> with (ExpressJS) and I've worked with the Socket.io library</p>
+ In the <b>Front</b>, I've used <b>React 18</b> (vite) and in the <b>Back</b>, I've learned how to use <b>NodeJs</b> with (ExpressJS) and I've worked with the <b>Socket.io</b> library</p>
 
 <p>I find myself looking for a <b>job</b> in the field of <b>Development</b>.</p>
 
